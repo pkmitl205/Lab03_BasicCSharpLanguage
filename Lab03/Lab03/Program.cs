@@ -6,7 +6,7 @@ namespace Lab03
     {
         static void Main(string[] args)
         {
-
+            Console.Write("");
         }
     }
 }
