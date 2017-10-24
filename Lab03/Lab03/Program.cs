@@ -1,12 +1,9 @@
 ﻿using System;
-
-namespace Lab03
+class Operators
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        bool a = 4 > 5;
+        Console.WriteLine("{0}", a);
     }
 }
